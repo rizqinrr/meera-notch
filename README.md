@@ -2,6 +2,8 @@
 
 Dynamic top-bezel productivity hub untuk Linux (GNOME Shell 46 di Wayland, Zorin OS 18.1 / Ubuntu 24.04 LTS), dirancang khusus untuk ASUS VivoBook X415EA.
 
+![Pratinjau Desain meera-notch](design/meera-notch-screens.png)
+
 ## Arsitektur
 
 `meera-notch` menggunakan arsitektur hibrida ringan untuk menjaga penggunaan RAM di bawah 10 MiB dan bebas lag pada utas kompositor GNOME Shell:
