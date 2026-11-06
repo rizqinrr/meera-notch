@@ -1,0 +1,7 @@
+/target/
+**/*.rs.bk
+*.zip
+schemas/gschemas.compiled
+.DS_Store
+*.swp
+*~

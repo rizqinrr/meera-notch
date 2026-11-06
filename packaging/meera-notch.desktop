@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=meera-notch
+GenericName=Dynamic Bezel Productivity Hub
+Comment=Notch Jadwal Sholat, Murottal Al-Quran, Sistem, Cuaca & Pomodoro
+Exec=meera-notch
+Icon=meera-notch
+Terminal=false
+Categories=Utility;GTK;
+StartupNotify=false
+

@@ -1,0 +1,9 @@
+{
+    "uuid": "meera-notch@rizqinrr.github.io",
+    "name": "meera-notch",
+    "description": "Native Dynamic Island / Top-Bar Hub for GNOME 46",
+    "shell-version": ["46"],
+    "url": "https://github.com/rizqinrr/meera-notch",
+    "version-name": "0.1.0",
+    "gettext-domain": "meera-notch"
+}
